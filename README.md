@@ -1,6 +1,4 @@
-## Hi there 👋
-<!-- #2ano
-Curso SENAI
+## Curso SENAI 2 ano
 
 💻Meu nome é Maria Eduarda da Silva Sou aluna do Colégio CEPI Osvaldo da Costa Meireles.
   
@@ -13,6 +11,10 @@ Curso SENAI
 📫 Como entrar em contato comigo: dudao.888.dasilva@gmail.com 
 
   <img width="2000" height="2000" alt="octocat-1778159709027" src="https://github.com/user-attachments/assets/dd7e68ab-8ecd-4d3b-be00-c3b5f64b37b3" />
+
+
+-->
+👋
 
 
 -->
