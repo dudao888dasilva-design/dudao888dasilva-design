@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dudao888dasilva-design/dudao888dasilva-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- #2ano
+Curso SENAI
 
-Here are some ideas to get you started:
+💻Meu nome é Maria Eduarda da Silva Sou aluna do Colégio CEPI Osvaldo da Costa Meireles.
+  
+📚 Participo do curso de Desenvolvimento de Sistemas.
+  
+🌱 Atualmente estou aprendendo programação, banco de dados e criação de projetos.
+  
+🚀 Estou buscando melhorar minhas habilidades em programação e design.
+  
+📫 Como entrar em contato comigo: dudao.888.dasilva@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <img width="2000" height="2000" alt="octocat-1778159709027" src="https://github.com/user-attachments/assets/dd7e68ab-8ecd-4d3b-be00-c3b5f64b37b3" />
+
+
 -->
